@@ -1,0 +1,13 @@
+/* ФАЙЛ подключения шрифтов */
+
+	@font-face {
+			font-family: "IstokWebRegular";
+			src: url("../fonts/IstokWebRegular/IstokWebRegular.eot");
+			src: url("../fonts/IstokWebRegular/IstokWebRegular.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/IstokWebRegular/IstokWebRegular.woff") format("woff"),
+			url("../fonts/IstokWebRegular/IstokWebRegular.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	
